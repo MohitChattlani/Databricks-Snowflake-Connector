@@ -30,5 +30,5 @@ Before using these scripts, ensure you have:
 
 - **bronze_layer_ingestion.py**: Handles the ingestion of raw data into Databricks.
 - **silver_layer_transformations.py**: Contains functions for data cleaning and transformation.
-- **Silver_to_snowflake.py**: Manages the connection to Snowflake and writes the transformed data to the specified table.
+- **silver_layer_to_snowflake.py**: Manages the connection to Snowflake and writes the transformed data to the specified table.
 
